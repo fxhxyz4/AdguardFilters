@@ -3,7 +3,7 @@ sites:
     initial_domain: https://vegamovies.hot/?re=vg
     last_known_mirror: vegamovies.navy
     failed_since: 2026-07-07 19:35
-    failed_days: 1
+    failed_days: 6
     potentially_dead: true
   Fmovies (fmovies.*):
     last_known_mirror: www.fmovies.gd
@@ -28,7 +28,7 @@ sites:
   Patronmac (patronmac*.cfd):
     last_known_mirror: patronmac96.cfd
     failed_since: 2026-07-07 19:35
-    failed_days: 1
+    failed_days: 6
     potentially_dead: true
   Piabet TV (piabettv*.live):
     force_search_ahead: true
@@ -40,8 +40,8 @@ sites:
       - Redirecting...
     probe_text:
       - /jwplayer.js
-    last_known_mirror: pamelachangemission.com
-    success_since: 2026-07-07 06:44
+    last_known_mirror: ellenpoliticalfollow.com
+    success_since: 2026-07-13 04:23
   PapazSports (papazsports*.pro):
     initial_domain: psgiris.pro
     accept_antibot: true
@@ -72,6 +72,7 @@ sites:
     force_search_ahead: true
     accept_antibot: true
     last_known_mirror: turk-ifsa11.com
+    success_since: 2026-07-13 04:23
   OnionPlay (onionplay.*):
     accept_antibot: true
     last_known_mirror: onionplay.st
@@ -91,20 +92,23 @@ sites:
     accept_antibot: true
     success_since: 2026-06-22 20:05
   Sadeceifsa (sadeceifsa*.lol):
-    last_known_mirror: sadeceifsa15.icu
-    success_since: 2026-07-08 19:33
+    last_known_mirror: sadeceifsa16.icu
+    success_since: 2026-07-13 04:23
   Hdturkifsa (hdturkifsa*.icu):
-    last_known_mirror: hdturkifsa50.cfd
-    success_since: 2026-07-08 19:33
+    last_known_mirror: hdturkifsa49.icu
+    success_since: 2026-07-13 04:23
   Cimcime:
-    last_known_mirror: cimcime134.live
-    success_since: 2026-07-08 19:33
+    last_known_mirror: cimcime135.live
+    success_since: 2026-07-13 04:23
   MaçtanMaça:
     last_known_mirror: mactanmaca512.sbs
     success_since: 2026-07-06 19:36
   Patronlig:
-    last_known_mirror: patronlig16.cfd
-    success_since: 2026-07-08 19:55
+    last_known_mirror: patronlig17.cfd
+    success_since: 2026-07-13 04:23
   Inattvizle:
     initial_domain: inatgiris.com
     last_known_mirror: inattvizle480.top
+    failed_since: 2026-07-13 04:23
+    failed_days: 0
+    potentially_dead: true
